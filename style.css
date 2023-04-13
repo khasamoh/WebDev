@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: rgb(4, 117, 121);
+}
+.section{
+    background-color: aliceblue;
+}
+
+.link{
+    background-color:cadetblue;
+    width: 32.2%;
+    height: 50px;
+    display: inline-block;
+    margin: 3px;
+    padding: 3px;
+    text-align: center;
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
